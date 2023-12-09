@@ -1,8 +1,8 @@
 # User Defined
 .env
 .dvc
-data/processing/
-data/raw_copy/
+data_model/processing/
+data_model/raw_copy/
 hub/
 
 
