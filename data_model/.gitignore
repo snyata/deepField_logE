@@ -1,13 +1,7 @@
 # User Defined
 .env
-<<<<<<< Updated upstream
-data/processing/
-data/raw_copy/
-=======
-.dvc
-data_model/processing/
-data_model/raw_copy/
->>>>>>> Stashed changes
+processing/
+raw_copy/
 hub/
 
 
